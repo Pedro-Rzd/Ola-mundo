@@ -1,2 +1,2 @@
-# Ola-mundo
- Primeiro repositorio versionado
+# Olá, mundo!
+ Primeiro repositorio versionado de Pedro-Rzd
